@@ -1,0 +1,24 @@
+nav #logo {
+    margin-right: 20px;
+}
+
+body {
+    font-family: "segoe ui", Helvetica Neue, Helvetica, Arial, sans-serif;
+}
+
+/* Définition de la police pour les titres (h1 à h6) */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: "Helvetica Neue", Helvetica Neue, Helvetica, Arial, sans-serif;
+}
+
+.icon-bootstrap {
+    font-family: "FontAwesome", "segoe ui", sans-serif;
+}
+#title{
+    color:rgb(96, 72, 61);
+}
